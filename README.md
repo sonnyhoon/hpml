@@ -15,7 +15,6 @@ This project focuses on optimizing a RoBERTa model using various techniques such
   - `pruning_performance.pdf`
   - `mixed_precision_performance.pdf`
   - `data_loading_efficiency.pdf`
-  - `optimized_performance.pdf`
 
 ## Setup and Installation
 To run the scripts in this repository, you will need Python 3.8 or later, along with the following packages:
